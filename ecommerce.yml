@@ -2,5 +2,5 @@ token:
   expiration_time: 86400000
   secret: user_token
 
-gateway:
-  ip: 127.0.0.1 # 나중에 필요하면 사용(아이피 제한용도)
+# gateway:
+#   ip: 127.0.0.1 # 나중에 필요하면 사용(아이피 제한용도)
